@@ -24,9 +24,29 @@ Engineering College, gill park Ludhiana . I love to play Cricket and
 football. 
 <br>
 # Class 10th Detail :- 
-<br>
 
+| Subject | Total Marks | Marks Obtained | 
+| ---- | ---- | ---- | 
+| English | 100 | 89 |
+| Maths | 100 | 85 |
+| Science | 100 | 86 |
+| Punjabi | 100 | 92 |
+| Social science | 100 | 71 |
 
-| --- | --- | --- |
+# Class 12th Detail :- 
 
-| sish | jebn | sih |
+| Subject | Total Marks | Marks Obtained |
+| ---- | ---- | ----| 
+| English | 100 | 89 |
+| Maths | 100 | 66 |
+| Physics | 100 | 77 |
+| Physical Education | 100 | 74 |
+| Chemistry | 100 | 82 |
+
+# Intrest :- 
+• Cricket 
+• Athlete 
+• Coding 
+
+# Excel Certificate :- 
+
